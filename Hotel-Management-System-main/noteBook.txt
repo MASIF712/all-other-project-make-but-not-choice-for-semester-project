@@ -1,0 +1,17 @@
+Name : fahat| Room No : 0
+Name : wali| Room No : 618164288
+Name : kashif	 Room No : 0
+Name : uzair	 Room No : -2062782400
+Name : kazim	 Room No : (null)
+Name : jafar	 Room No : 555
+Name : asif	 Room No : 111
+Name : cd	 Room No : 111
+Name : ali	 Room No : 777
+Name : cd	 Room No : 777
+Name : jabir	 Room No : 888
+Name : hyat	 Room No : 888
+Name : gulzar	 Room No : 234
+Name : shibi	 Room No : 888
+Name : huda	 Room No : 777
+Name : tahir	 Room No : 1234
+Name : aftab	 Room No : 12
